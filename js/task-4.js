@@ -1,5 +1,4 @@
 const valueRef = document.querySelector('#value');
-
 const decrButtonRef = document.querySelector('[data-action="decrement"]');
 const incrButtonRef = document.querySelector('[data-action="increment"]');
 
